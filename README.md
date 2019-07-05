@@ -1,2 +1,2 @@
-# srm-ethereum
-SRM Ethereum workshop
+# kcg-ethereum
+KCG Ethereum workshop
