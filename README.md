@@ -1,2 +1,2 @@
-# kcg-ethereum
-KCG - Ethereum training
+# srm-ethereum
+SRM Ethereum workshop
